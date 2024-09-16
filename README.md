@@ -3,7 +3,7 @@
 <h3 align="center">Driven Engineering Student | Crafting Tomorrow's Tech Solutions with AI & Cybersecurity</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=NaveenSanjaya&label=Profile%20views&color=0e75b6&style=flat" alt="NaveenSanjaya" /> </p>
 <h3 align="center">Bio</h3>
-<p align="left">Hi there! I'm Naveen Sanjaya Basnayake, an enthusiastic Electronic and Telecommunication Engineering student at the University of Moratuwa. I’m passionate about blending technology with impactful solutions, especially in the fields of Machine Learning and Cybersecurity.</p>
+<p align="justify">Hi there! I'm Naveen Sanjaya Basnayake, an enthusiastic Electronic and Telecommunication Engineering student at the University of Moratuwa. I’m passionate about blending technology with impactful solutions, especially in the fields of Machine Learning and Cybersecurity.</p>
 
 <table align="center">
 <tr border="none">
