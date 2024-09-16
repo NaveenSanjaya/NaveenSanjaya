@@ -2,8 +2,6 @@
 <h1 align="center">Hi 👋, I'm Naveen Sanjaya</h1>
 <h3 align="center">Driven Engineering Student | Crafting Tomorrow's Tech Solutions with AI & Cybersecurity</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=NaveenSanjaya&label=Profile%20views&color=0e75b6&style=flat" alt="NaveenSanjaya" /> </p>
-<h3 align="center">Bio</h3>
-<p align="justify">Hi there! I'm Naveen Sanjaya Basnayake, an enthusiastic Electronic and Telecommunication Engineering student at the University of Moratuwa. I’m passionate about blending technology with impactful solutions, especially in the fields of Machine Learning and Cybersecurity.</p>
 
 <table align="center">
 <tr border="none">
@@ -22,7 +20,7 @@
 </td>
 <td width="50%" align="center">
 
-  <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
+  <img align="center" alt="Coding" width="450" src="https://private-user-images.githubusercontent.com/74038190/238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjY0NTI3MTgsIm5iZiI6MTcyNjQ1MjQxOCwicGF0aCI6Ii83NDAzODE5MC8yMzgzNTUzNDktN2Q0ODRkYzktNjhhOS00ZWU2LWE3NjctYWVhNTkwMzVjMTJkLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA5MTYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwOTE2VDAyMDY1OFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWU4NzEzZjI2ZWEzNDQ3MGEyMTJiZWZiZjM1ZjUyMzY3M2ExNmFlMmY4ZWU1ODJkNjhjMzdkMDJjMGRiMzU1N2YmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.nn7OaDAFoxlkoXSAfQnW2Ii9Gl7zNOPzTHxagF-8yvY">
 
   
   </td>
@@ -75,7 +73,7 @@
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg" alt="mysql" width="50" height="50"/> </a> 
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/Photoshop.svg" alt="photoshop" width="50" height="50"/> </a> 
 <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/PHP-Light.svg" alt="php" width="50" height="50"/> </a> 
-<a href="https://www.blackmagicdesign.com/products/davinciresolve" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/DavinchiResolve.svg" alt="DavinchiResolve" width="50" height="50"/> </a> 
+<a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/NaveenSanjaya/skill-icons/blob/main/icons/TensorFlow-Light.svg" alt="DavinchiResolve" width="50" height="50"/> </a> 
 <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/AndroidStudio-Light.svg" alt="android" width="50" height="50"/> </a> 
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Figma-Light.svg" alt="figma" width="50" height="50"/> </a> 
 <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Kotlin-Light.svg" alt="kotlin" width="50" height="50"/> </a> 
