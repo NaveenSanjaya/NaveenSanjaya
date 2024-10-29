@@ -20,7 +20,7 @@
 </td>
 <td width="50%" align="center">
 
-  <img align="center" alt="Coding" width="450" src="https://private-user-images.githubusercontent.com/74038190/238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mjg0NDI5NjIsIm5iZiI6MTcyODQ0MjY2MiwicGF0aCI6Ii83NDAzODE5MC8yMzgzNTUzNDktN2Q0ODRkYzktNjhhOS00ZWU2LWE3NjctYWVhNTkwMzVjMTJkLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEwMDklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMDA5VDAyNTc0MlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTE2ZTdiMDFmMGIwODBiYWY2NmY5MjIyNTQyZWRkN2MyMWIyNjU5ZjA2ZmM2YTM5OWUxYmExOTlhMmVkNDZmODImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0._ObleIv80joLAM0wODv7F45Fi6rZKFN17nqio1Ohl7g">
+  ![star passing](https://github.com/user-attachments/assets/aaa80cff-9370-4968-8176-cac66155f757)
 
   
   </td>
