@@ -11,6 +11,8 @@
 
 - 🧑‍🎓 I’m an Undergraduate at **University of Moratuwa**
 
+- 📝 I frequently write pieces about [Medium](https://medium.com/@naveensanjaya)
+
 - 💬 Ask me about
 
 - 📫 How to reach me **naveensanjayab@gmail.com**
@@ -61,6 +63,7 @@
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
+<a href="https://www.raspberrypi.com" target="_blank" rel="noreferrer"> <img src="https://github.com/NaveenSanjaya/skill-icons/blob/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/RaspberryPi-Dark.svg" alt="bootstrap" width="50" height="50"/> </a> 
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" alt="bootstrap" width="50" height="50"/> </a> 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" alt="c" width="50" height="50"/> </a> 
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" alt="cplusplus" width="50" height="50"/> </a> 
