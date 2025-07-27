@@ -7,7 +7,7 @@
 <tr border="none">
 <td width="50%" align="left">
   
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Computer Vision & Pattern Recognition**
 
 - 🧑‍🎓 I’m an Undergraduate at **University of Moratuwa**
 
