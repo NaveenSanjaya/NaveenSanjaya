@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **naveensanjayab@gmail.com**
   
-- ⚡ Fun fact
+- ⚡ Fun fact 
 
 </td>
 <td width="50%" align="center">
